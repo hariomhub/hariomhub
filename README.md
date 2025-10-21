@@ -21,24 +21,22 @@ Aspiring Software Developer | Problem Solver
 🛢 `MongoDB` | `MySQL`  
 ⚙️ `Git` | `GitHub` | `Postman` | `VS Code` | `Vercel` | `Render` | `Firebase`
 
+### 🚀 My Projects
+
+### 🏆 Achievements
+
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=hariomhub&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=hariomhub&theme=tokyonight&hide_border=false" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hariomhub&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hariomhub&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomhub&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomhub&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hariomhub&theme=react-dark&area=true&hide_border=false" width="90%" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariomhub&theme=tokyonight&margin-w=10&margin-h=10" />
-</div>
 
 
 
