@@ -1,10 +1,10 @@
 ## Hey there! I'm Hariom 👋
 Aspiring Software Developer | Problem Solver
 <p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://codolio.com/your-codolio"><img src="https://img.shields.io/badge/Codolio-000?logo=code&logoColor=white" alt="Codolio" /></a>
-  <a href="https://github.com/hariomkumar"><img src="https://komarev.com/ghpvc/?username=hariomkumar&color=brightgreen" alt="Profile views" /></a>
+  <a href="https://linkedin.com/in/hariomkv"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hariomkumarkjh55@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://codolio.com/hariom_k"><img src="https://img.shields.io/badge/Codolio-000?logo=code&logoColor=white" alt="Codolio" /></a>
+  <a href="https://github.com/hariomhub"><img src="https://komarev.com/ghpvc/?username=hariomkumar&color=brightgreen" alt="Profile views" /></a>
 </p>
 
 ### About Me
